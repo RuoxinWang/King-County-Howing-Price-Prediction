@@ -7,7 +7,7 @@ Students will work in groups of two to four students to practice completing the 
 This home dataset contains house sale prices for King County, which includes Seattle. It includes 
 homes sold between May 2014 and May 2015. The dataset consists of following variables
 
-#id - Unique ID for each home sold 
+*id - Unique ID for each home sold 
 date - Date of the home sale 
 price - Price of each home sold 
 bedrooms - Number of bedrooms 
